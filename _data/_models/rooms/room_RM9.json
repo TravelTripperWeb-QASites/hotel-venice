@@ -180,8 +180,27 @@
     ]
   },
   "images": [
-
+    {
+      "name": "Standard Room, 2 Queen Beds Image 1",
+      "file_name": "Standard Room, 2 Queen Beds Image 1",
+      "url": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092810/68922_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-12-092810",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 56261,
+      "url_large": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092810/large_68922_1_yankee_large.jpg",
+      "url_medium": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092810/medium_68922_1_yankee_large.jpg",
+      "url_small": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092810/small_68922_1_yankee_large.jpg",
+      "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092810/xsmall_68922_1_yankee_large.jpg",
+      "url_thumb": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092810/thumb_68922_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    }
   ],
   "": "RM9",
-  "order": 9
+  "order": 9,
+  "reztrip_room_id": "RM9"
 }

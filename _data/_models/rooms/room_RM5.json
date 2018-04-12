@@ -180,8 +180,27 @@
     ]
   },
   "images": [
-
+    {
+      "name": "Standard Room, 1 King Bed, Non Smoking Image 1",
+      "file_name": "Standard Room, 1 King Bed, Non Smoking Image 1",
+      "url": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092804/68913_1_yankee_large.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-04-12-092804",
+      "file_type": "image/jpeg",
+      "width": 800,
+      "height": 600,
+      "file_size": 53850,
+      "url_large": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092804/large_68913_1_yankee_large.jpg",
+      "url_medium": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092804/medium_68913_1_yankee_large.jpg",
+      "url_small": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092804/small_68913_1_yankee_large.jpg",
+      "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092804/xsmall_68913_1_yankee_large.jpg",
+      "url_thumb": "//cdn.qa-traveltripper.info/site-assets/1_24_112/media/2018-04-12-092804/thumb_68913_1_yankee_large.jpg",
+      "caption": "Image 1",
+      "alt": "Image 1"
+    }
   ],
   "": "RM5",
-  "order": 5
+  "order": 5,
+  "reztrip_room_id": "RM5"
 }
