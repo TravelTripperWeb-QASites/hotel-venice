@@ -1,0 +1,187 @@
+{
+  "name_localized": {
+    "en": "Standard Room, 2 Queen Beds, Non Smoking",
+    "es": "Standard Room, 2 Queen Beds, Non Smoking"
+  },
+  "short_description_localized": {
+    "en": "Standard Room, 2 Queen Beds, Non Smoking",
+    "es": "Standard Room, 2 Queen Beds, Non Smoking"
+  },
+  "description_localized": {
+    "en": "<strong>2 Queen Beds</strong><br />350 sq feet (33 sq meters)<br /><br /><b>Internet</b> - Free WiFi and wired Internet access<br /> <b>Entertainment</b> - LCD television with premium channels<br /><b>Food & Drink</b> - Refrigerator, microwave,  coffee/tea maker, and room service<br /><b>Sleep</b> - Premium bedding <br /><b>Bathroom</b> - Private bathroom, free toiletries, and a shower/tub combination<br /><b>Practical</b> - Free local calls, safe, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Non-Smoking<br />Room is accessed via exterior corridors <br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>2 Queen Beds</strong><br />350 sq feet (33 sq meters)<br /><br /><b>Internet</b> - Free WiFi and wired Internet access<br /> <b>Entertainment</b> - LCD television with premium channels<br /><b>Food & Drink</b> - Refrigerator, microwave,  coffee/tea maker, and room service<br /><b>Sleep</b> - Premium bedding <br /><b>Bathroom</b> - Private bathroom, free toiletries, and a shower/tub combination<br /><b>Practical</b> - Free local calls, safe, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Non-Smoking<br />Room is accessed via exterior corridors <br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Access via exterior corridors"
+      },
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free local calls"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "In-room safe"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "LCD TV"
+      },
+      {
+        "name": "Microwave"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Free wired Internet"
+      },
+      {
+        "name": "Premium bedding"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Refrigerator"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Room service"
+      },
+      {
+        "name": "Room service (limited hours)"
+      },
+      {
+        "name": "Shower/tub combination"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Access via exterior corridors"
+      },
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free local calls"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "In-room safe"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "LCD TV"
+      },
+      {
+        "name": "Microwave"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Free wired Internet"
+      },
+      {
+        "name": "Premium bedding"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Refrigerator"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Room service"
+      },
+      {
+        "name": "Room service (limited hours)"
+      },
+      {
+        "name": "Shower/tub combination"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "": "RM3",
+  "order": 3
+}
