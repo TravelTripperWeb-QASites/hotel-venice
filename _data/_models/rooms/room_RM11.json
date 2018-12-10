@@ -183,5 +183,6 @@
 
   ],
   "": "RM11",
-  "order": 11
+  "order": 11,
+  "reztrip_room_id": "RM11"
 }
